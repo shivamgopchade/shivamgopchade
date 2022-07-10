@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @shivamgopchade
-- 👀 I’m interested in python projects in ML,DL,Image processing and JS web dev
-- 🌱 I’m currently learning Webdev
-- 💞️ I’m looking to collaborate on ...
+- working on Web3
 - 📫 How to reach me :mail on shivam23gopchade@gmail.com
 
 <!---

@@ -5,7 +5,7 @@
 <ul>
 <li>Currently pursuing my Btech from <a href="https://vnit.ac.in/">Vnit</a> under ECE speciality.
 <li>CPP primary language</li>
-<li>Creating on NEXT,REACT,REDUX-TOOLKIT,NODE,DJANGO,Solidity.
+<li>Creating on NEXT,REACT,REDUX-TOOLKIT,EXPRESS,DJANGO,Solidity.
 <li>Reach me via mail on shivam23gopchade@gmail.com</li>
 </ul>
 </div>
